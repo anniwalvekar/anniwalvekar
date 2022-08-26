@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **React, NodeJS**
 
-- 💬 Ask me about **HTML, CSS**
-
 - 📫 How to reach me **anitawalvekar05@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
