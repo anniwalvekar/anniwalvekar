@@ -3,8 +3,6 @@
 <h1 align="center">Hi 👋, I'm Anita Walvekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" width="400" src="https://resultpediabd.com/wp-content/uploads/2019/08/me.gif" alt="coding">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=anniwalvekar" alt="anniwalvekar" /></a> </p>
-
 - 🌱 I’m currently learning **React, NodeJS**
 
 - 📫 How to reach me **anitawalvekar05@gmail.com**
