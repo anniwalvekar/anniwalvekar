@@ -1,4 +1,5 @@
-[![MasterHead](C:\Users\Anita\Downloads\cover5.png)]
+<img src="![cover5](https://user-images.githubusercontent.com/98731646/205584588-3b545556-ae8b-40c5-9168-6a56ef660ebd.png)
+" alt="" height="30" width="40" />
 
 <h1 align="center">Hi 👋, I'm Anita Walvekar</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
